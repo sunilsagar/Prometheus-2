@@ -1,5 +1,3 @@
-# DevOps Playground Singapore: Exploring metrics with Prometheus
-
 <img src='_images/prometheus logo_orange.png'>
 
 - [Introduction](#introduction)
@@ -24,10 +22,10 @@
 ## Introduction
 
 On this Playground we're going to install Prometheus on a server, alongside with a fake application that produces metrics, and a service that collects system metrics. We'll then explore Prometheus' UI and learn the basic query types. Lastly we will setup Grafana and present the Prometheus metrics as dashboard.
-
-**Name:** Melvin Cheng  
-**Role:** DevOps And Continuous Delivery Consultant  
-**Email:** melvin@ecs-digital.co.uk  
+ 
+## Prometheus Architecture Diagram
+This image is take form prometheus doc
+<img src='_images/architecture.png'>
 
 
 ## Requirements
